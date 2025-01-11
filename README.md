@@ -1,4 +1,4 @@
-# This is a sample login page 
+# This is a simple login page 
 <br>created using html and css
 
 
